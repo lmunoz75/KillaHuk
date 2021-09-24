@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>upc.png</file>
+  </qresource>
+</RCC>

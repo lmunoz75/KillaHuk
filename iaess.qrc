@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="cct">
+    <file>aess.png</file>
+  </qresource>
+</RCC>
